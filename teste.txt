@@ -1,0 +1,4 @@
+# Teste do Git
+
+Este é apenas um teste de funcionamento do
+Git e da sincronização com o Githb
